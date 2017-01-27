@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+ }
+
+ #header{
+     background-color: #2ecc71;
+  position: fixed;
+  height: 50px;
+  text-align:center;
+  width: 100%;
+
+ }
+
+ #header p{
+  color: #ffffff;
+  line-height: 50px;
+  font-size: 35px;
+  color: #000000;
+ }
+ .isi{
+  clear: both;
+  padding-top: 70px;
+  padding-left: 30px;
+  padding-right: 30px;
+  
+ }
+
+ button {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #19B5FE;
+ }
+
+ table{
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 5px;
+ }
+
+ th{
+  background-color: #19B5FE;
+  padding: 5px;
+ }
+
+ .in{
+  padding: 5px;
+  border: 2px #19B5FE solid;
+
+ }
+
+ .btn{
+  padding: 5px;
+  background-color: #19B5FE;
+  border-radius: 5px;
+ } 

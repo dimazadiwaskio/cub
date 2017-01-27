@@ -1,0 +1,9 @@
+[28-Aug-2016 06:51:19 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/cubdigit/public_html/4dm1n/login.php on line 2
+[28-Aug-2016 06:51:19 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/cubdigit/public_html/4dm1n/login.php on line 2
+[28-Aug-2016 06:51:19 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cubdigit/public_html/4dm1n/login.php on line 2
+[28-Aug-2016 06:51:19 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cubdigit/public_html/4dm1n/login.php on line 9
+[28-Aug-2016 06:51:19 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cubdigit/public_html/4dm1n/login.php on line 9
+[28-Aug-2016 06:51:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cubdigit/public_html/4dm1n/login.php on line 10
+[28-Aug-2016 06:51:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubdigit/public_html/4dm1n/login.php:2) in /home/cubdigit/public_html/4dm1n/login.php on line 13
+[28-Aug-2016 06:52:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubdigit/public_html/koneksi.php:10) in /home/cubdigit/public_html/4dm1n/login.php on line 21
+[28-Aug-2016 08:07:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubdigit/public_html/koneksi.php:10) in /home/cubdigit/public_html/4dm1n/login.php on line 21
